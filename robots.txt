@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-zapv1f.ai-photo-stock.com/sitemap.xml
